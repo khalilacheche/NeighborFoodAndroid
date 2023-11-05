@@ -2,7 +2,15 @@
   "title": "NeighbourFood",
   "img_path": "https://raw.githubusercontent.com/khalilacheche/NeighborFoodAndroid/project-metadata/neighbourfood.gif",
   "description": "An android App",
-  "tags": ["Software Engineering"],
-  "langs": ["Java"],
-  "frameworks":["Android Studio","Firebase"]
+  "tags": [
+    "Software Engineering"
+  ],
+  "langs": [
+    "Java"
+  ],
+  "frameworks": [
+    "Android Studio",
+    "Firebase"
+  ],
+  "date": "2022-02"
 }
